@@ -1,10 +1,17 @@
-# Retail Sales Analysis and Forecast using Machine Learning
+Trojan Horse - Financial Analysis Tool
 
-**Introduction**
+Trojan Horse - Financial Analysis & Management Tool
 
-Retail Sales Forecast employs advanced machine learning techniques, prioritizing careful data preprocessing, feature enhancement, and comprehensive algorithm assessment and selection. The streamlined Streamlit application integrates Exploratory Data Analysis (EDA) to find trends, patterns, and data insights. It offers users interactive tools to explore top-performing stores and departments, conduct insightful feature comparisons, and obtain personalized sales forecasts. With a commitment to delivering actionable insights, the project aims to optimize decision-making processes within the dynamic retail landscape.
+This project aims to revolutionize financial management in high-transaction retail environments like DMart. The tool integrates AI-driven demand forecasting, wastage reduction, and profitability analysis into a unified system. Key features include real-time actionable insights, interactive dashboards, and predictive analytics tailored for optimizing inventory, reducing product wastage, and enhancing profitability.
 
-<br />
+The solution leverages modern technologies such as Python, PostgreSQL, AWS S3, and ML models like Prophet and LSTM for sales predictions. With a focus on scalability and efficiency, it addresses critical challenges such as scattered sales data, rising inventory costs, and lack of visibility into sales trends.
+
+Key Features:
+AI-Driven Demand Forecasting: Predict future sales and recommend restocking levels.
+Wastage Reduction Insights: Identify slow-moving or expiring products.
+Real-Time Alerts & Reports: Notifications for low stock, overstock risks, and more.
+Centralized Data Platform: Unified storage for sales, inventory, and profitability data.
+This tool empowers retail managers with actionable insights, enabling better decision-making and improved operational efficiency.
 
 **Table of Contents**
 
@@ -126,8 +133,8 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 
 **Contact**
 
-📧 Email: gopiashokankiot@gmail.com 
+📧 Email: mdkaifpasha2k@gmail.com 
 
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
+🌐 LinkedIn: [linkedin.com/in/mohammedkaifpasha](https://www.linkedin.com/in/Mohammedkaifpasha)
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
