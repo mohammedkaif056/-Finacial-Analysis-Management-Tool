@@ -135,6 +135,6 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 
 📧 Email: mdkaifpasha2k@gmail.com 
 
-🌐 LinkedIn: [linkedin.com/in/mohammedkaifpasha](https://www.linkedin.com/in/Mohammedkaifpasha)
+🌐 LinkedIn: [linkedin.com/in/mohammedkaifpasha]([https://www.linkedin.com/in/Mohammedkaifpasha](https://www.linkedin.com/in/mohammed-kaif-pasha-138003255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
